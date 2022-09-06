@@ -7,8 +7,8 @@ import logo from '../../../assets/logo.png';
 export default function Topo() {
     return <View style={estilos.topo}>
         <Image source={logo} style={estilos.imagem} />
-        <Text style={estilos.boasVindas}>Olá Gilvan</Text>
-        <Text style={estilos.legenda}>Encontre os melhores produtores</Text>
+        <Text style={estilos.boasVindas}></Text>
+        <Text style={estilos.legenda}></Text>
     </View>
 }
 
